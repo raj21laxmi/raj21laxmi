@@ -1,4 +1,5 @@
-# Welcome, I am Tanuja Deshpande <img src="https://raw.githubusercontent.com/raj21laxmi/emoji-assets/main/wave.svg" width="30"/>
+# Welcome, I am Tanuja Deshpande ![ConyBrownGIF](https://github.com/user-attachments/assets/f247b559-11fe-43f9-90be-297d0adc3b75)
+
 
 
 ## Summary
