@@ -4,7 +4,7 @@
 -  I’m currently working on refining user-centric software that is simple, elegant and efficient.  
 - 🧠 My stack: Python · SQL · Web Design · AI Experiments · Cloud Enthusiast  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanuja-deshpande-498b8a21b/) | [Portfolio](https://raj21laxmi.github.io/Know_About_Me/)  
-- 📄 Resume: [Click Here](#) *(add your resume link if you have one)*
+- 📄 Resume: [Click Here](#) 
 
 
  
